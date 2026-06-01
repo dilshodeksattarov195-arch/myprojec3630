@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdalculate",
+        "uuid": 32259810,
+        "checksum": "41ldz"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
